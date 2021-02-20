@@ -19,18 +19,18 @@ ii) Fine-tuned classification model and implemented K Fold Cross validation in o
 **Level 2**
 
 i) Scaled dataset and involved some more categories pertaining to the currency validation in the dataset. 
-i) Used same dataset and built Convolutional Neural Network classification model. 
-ii) Hyper tuned the deep Learning model by tweaking dropout nodes, max pooling, early_stopping, loss function, kernel and padding values which resulted into 93.8% accuracy on test dataset. 
+ii) Used same dataset and built Convolutional Neural Network classification model. 
+iii) Hyper tuned the deep Learning model by tweaking dropout nodes, max pooling, early_stopping, loss function, kernel and padding values which resulted into 93.8% accuracy on test dataset. 
 
 # Technologies Used
 
-1) OpenCV, Scikit-image, Numpy, Pandas, Image-Generator for data pre-processing
-2) Scikit learn, Matplotlib for data modelling and data visualization
-3) Keras 2.0 and Tensorflow for building deep learning model, Tensor board for tracking model’s performance. 
-4) Python Flask for deploying model as a web service.  
+i) OpenCV, Scikit-image, Numpy, Pandas, Image-Generator for data pre-processing
+ii) Scikit learn, Matplotlib for data modelling and data visualization
+iii) Keras 2.0 and Tensorflow for building deep learning model, Tensor board for tracking model’s performance. 
+iv) Python Flask for deploying model as a web service.  
 
 # Future Scope
 
-1) Dive deep into the denominations and try identifying fake currency images. 
-2) Involve more currencies and develop a real time dynamic currency conversion web application.  
+i) Dive deep into the denominations and try identifying fake currency images. 
+ii) Involve more currencies and develop a real time dynamic currency conversion web application.  
 
