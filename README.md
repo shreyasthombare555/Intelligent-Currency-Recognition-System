@@ -11,7 +11,7 @@ ii) Augmented currency images using techniques such as scaling, flipping, croppi
 
 iii) Converted all currency images to grayscale, re-scaled them into the resoluton of 148 X 148 and stored their respective pixel values in the arrays to reduce the computational overhead.  
 
-# Data Modeling and results
+# Data Modeling and Results
 
 **Level 1**
 
