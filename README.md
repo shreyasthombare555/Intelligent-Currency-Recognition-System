@@ -1,4 +1,4 @@
-# Intelligent-Currency-Recognition-System
+# Intelligent Currency Recognition System
 
 # Project Overview
 
