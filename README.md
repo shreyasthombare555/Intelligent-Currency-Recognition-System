@@ -30,12 +30,13 @@ test dataset.
 
 # Technologies Used
 
-i) OpenCV, Scikit-image, Numpy, Pandas, Image-Generator for data pre-processing
+i) **Data Pre-processing:** OpenCV, Scikit-image, Numpy, Pandas, Image-Generator.
 
-ii) Scikit learn, Matplotlib for data modelling and data visualization
+ii) **Data Modelling and Data Visualization:** Keras 2.0 and Tensorflow, Scikit learn, Matplotlib.
 
-iii) Keras 2.0 and Tensorflow for building deep learning model, Tensor board for tracking model’s performance. 
-iv) Python Flask for deploying model as a web service.  
+iii) **Model Performance and Maintenance:** Tensor board. 
+
+iv) **Model Deployment:** Python Flask 
 
 # Future Scope
 
